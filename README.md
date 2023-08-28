@@ -1,4 +1,4 @@
-# Welcome to my corner! 🚀
+# Welcome to my corner! 
 
 ## Hello, I'm Bruno 👋
 
@@ -6,6 +6,7 @@ Automation and Control Engineer with a burning passion for technology and innova
 I'm constantly seeking challenges that help me grow and evolve.
 
 🤖 **A touch of robotics**
+
 My passion for technology doesn't stop there. My contact with software development began in my academic life, I was a part of the Robo FEI Team, working in the programming of an autonomous assistance robot. Furthermore, I participated in national and international robotics competitions.
 
 📚 **My Expertise**
