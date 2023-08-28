@@ -46,7 +46,7 @@ I'm always seeking new challenges and opportunities to expand my knowledge and p
 
 Feel free to find me on other platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/brunofreitasv/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunofreitasv/))
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/bruno_freitasv/)
 
 Let's build the future, one commit at a time! 👨‍💻🌟
