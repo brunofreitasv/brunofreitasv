@@ -49,3 +49,6 @@ Feel free to find me on other platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunofreitasv/)
 
 Let's build the future, one commit at a time! 👨‍💻🌟
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brunofreitasv&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
