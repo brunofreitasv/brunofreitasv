@@ -6,7 +6,7 @@ Automation and Control Engineer with a passion for technology and innovation. Cu
 
 ### 📚 **My Expertise**
 
-Committed to continuous growth. My current o competencies include:
+Committed to continuous growth. My current competencies include:
 
 - Backend Development: ASP.NET Core, Web APIs, Microservices, Hexagonal Architecture, Clean Architecture, Domain-Driven Design (DDD), Test-Driven Development (TDD)
 - Frontend Development: HTML, CSS, JavaScript, Angular, React
