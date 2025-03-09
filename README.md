@@ -14,9 +14,11 @@ Committed to continuous growth. My current competencies include:
 
 ## Background
 
-I have a foundation in Automation and Control Engineering. My academic experience included robotics projects, where I gained valuable problem-solving and programming skills.
+I started out in Automation and Control Engineering, diving deep into robotics and AI projects. Along the way, I discovered my passion for software architecture and backend development. Since then, I have been building high-impact solutions and leading my team through complex system modernizations.
 
-I'm eager to contribute to innovative projects and expand my knowledge. My goal is to build a successful career in software development and potentially venture into entrepreneurship.
+Technology enthusiast with a deep interest in AI, blockchain, and the intersection of innovative technology with real-world applications. Additionally, I am a former robotics competitor, representing my university in international competitions.
+
+I am looking forward to contributing to innovative projects and expanding my knowledge.
 
 📫 **Let's Connect?**
 
